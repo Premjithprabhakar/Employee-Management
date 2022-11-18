@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Akash",
+      "lastName": "Chandran",
+      "email": "Akash@gmail.com",
+      "mobile": "123040502",
+      "salary": "12345"
+    },
+    {
+      "id": 5,
+      "firstName": "premjith",
+      "lastName": "Prabhakar",
+      "email": "premjith@123",
+      "mobile": "8078067857",
+      "salary": "50000"
+    },
+    {
+      "id": 6,
+      "firstName": "Arun",
+      "lastName": "Raj",
+      "email": "arunraj261@gmail.com",
+      "mobile": "23456789",
+      "salary": "60000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
